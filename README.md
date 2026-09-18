@@ -42,27 +42,6 @@ My role goes beyond writing features — I take ownership of the full software l
 
 I enjoy working on systems where **frontend, backend, data, cloud, integrations, and real business operations all meet in the same problem**.
 
-## 🧭 How I Approach Software Ownership
-
-For me, owning software means more than completing a ticket.
-
-It means understanding the business problem, making sound technical decisions, building the solution, validating it in the real world, and staying responsible for what happens after deployment.
-
-```text
-Understand → Design → Build → Validate → Deploy → Observe → Improve → Own
-```
-
-That includes:
-
-- 🧩 Translating ambiguous business requirements into practical technical solutions
-- 🏗️ Making architecture and implementation decisions
-- 🔍 Investigating failures across frontend, backend, APIs, databases, and infrastructure
-- 🚀 Taking features from development through production
-- 📈 Monitoring performance and reliability after release
-- 🛠️ Fixing problems instead of handing them off
-- 🔄 Improving systems based on real production behavior
-- 🤝 Working directly with business users and stakeholders to understand whether the software actually solves their problem
-
 ## 🧰 Tech Stack
 
 - ⚛️ **Frontend:** React, JavaScript, Material UI
@@ -76,29 +55,12 @@ That includes:
 
 ## 🤖 AI as an Engineering Force Multiplier
 
-I use AI extensively as part of my software development workflow — for exploring ideas, accelerating implementation, reviewing approaches, analyzing data, debugging, documentation, and automating repetitive engineering work.
-
-But I don't treat AI-generated output as the finished product.
-
-**The developer still owns the result.**
+**The developer still OWNS the result.**
 
 ```text
 AI can generate code.
 Engineering decides whether that code belongs in production.
 ```
-
-My responsibility is to provide the context, define the architecture, evaluate tradeoffs, validate the output, understand the implementation, and ensure the final system is secure, maintainable, reliable, and appropriate for the business.
-
-I’m especially interested in **agentic systems** that can:
-
-- 🧠 Reason through multi-step tasks
-- 🔧 Select and use tools
-- 🔌 Call APIs and interact with enterprise systems
-- 📊 Analyze structured data
-- 🔁 Automate repetitive workflows
-- 🛡️ Operate within defined permissions and guardrails
-- 👤 Keep humans in control of important decisions
-
 ```python
 while problem_exists:
     understand_context()
@@ -108,18 +70,6 @@ while problem_exists:
     take_ownership()
     ship_something_useful()
 ```
-
-## 🚀 What I Like Building
-
-- 🏢 Enterprise applications that solve real operational problems for non-technical users
-- 🔌 APIs and integrations that connect systems cleanly
-- 🤖 AI-powered tools and agentic workflows
-- 🐍 Python utilities, data pipelines, and automation
-- 📊 Data analysis and reporting tools
-- ☁️ Cloud services and background workers
-- 🧩 Solutions for complicated business requirements
-- 🧠 Systems that are maintainable, observable, and reliable in production
-
 
 ## 🏔️ When I'm Not Coding
 
