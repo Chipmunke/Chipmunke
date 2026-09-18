@@ -7,8 +7,23 @@ I **BUILD**, **OWN**, and **SUPPORT** enterprise software end to end — from ar
 My work spans **React, .NET, SQL Server, Python, Azure, system integrations, data engineering, and applied AI**, with a focus on turning complicated business processes into reliable software used by thousands of people every day.
 
 I use AI heavily in my development workflow, but I believe strongly that **engineering ownership stays with the developer** — architecture, tradeoffs, security, validation, maintainability, and production outcomes are still my responsibility.
+## 🧠 How I Think About Engineering
 
-## 🏗️ What I Build & Own
+```text
+Problem → Design → Build → Validate → Deploy → Observe → Improve → Own
+```
+
+- ☕ Fueled by coffee
+- 🪵 Frequently staring at logs
+- 🧹 Blaming the cache first
+- 🔄 Refreshing until it works
+- 📊 Turning messy data into something useful
+- 🤖 Letting AI handle more of the repetitive work
+- 🧠 Keeping the engineering judgment human
+- 🐛 Occasionally creating problems for Future Me
+- 🏔️ Building bugs at altitude since... professionally
+
+## 🏗️ What I Actually Build & Own
 
 I work on production systems serving **3,000+ daily active users** across field operations, workforce management, and internal business functions.
 
@@ -105,21 +120,6 @@ while problem_exists:
 - 🧩 Solutions for complicated business requirements
 - 🧠 Systems that are maintainable, observable, and reliable in production
 
-## 🧠 How I Think About Engineering
-
-```text
-Problem → Design → Build → Validate → Deploy → Observe → Improve → Own
-```
-
-- ☕ Fueled by coffee
-- 🪵 Frequently staring at logs
-- 🧹 Blaming the cache first
-- 🔄 Refreshing until it works
-- 📊 Turning messy data into something useful
-- 🤖 Letting AI handle more of the repetitive work
-- 🧠 Keeping the engineering judgment human
-- 🐛 Occasionally creating problems for Future Me
-- 🏔️ Building bugs at altitude since... professionally
 
 ## 🏔️ When I'm Not Coding
 
